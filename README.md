@@ -13,7 +13,5 @@ Hi, I'm Amal 👋<br>🎓 Software Technology student at SDU<br>💻 Interested 
 ![](https://streak-stats.demolab.com/?user=Amal-1612&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amal-1612&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
