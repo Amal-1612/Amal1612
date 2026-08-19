@@ -4,7 +4,7 @@ Hi, I'm Amal 👋<br>🎓 Software Technology student at SDU<br>💻 Interested 
 # 💡Projects:
 Broke-Block (C#)
 
-<br> Product Information Managemnt System scalable Product Information Management system using C#, PostgreSQL, database design, and software architecture.<br>
+<br></>Product Information Managemnt System scalable Product Information Management system using C#, PostgreSQL, database design, and software architecture.<br>
 
 LLM from scratch (Python)
 
