@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Amal 👋<br>🎓 Software Technology student at SDU<br>💻 Interested in software development, AI, data & cybersecurity<br>🌱 Always curious, always learning, and always building something new
+Hi, I'm Amal 👋<br>🎓 Software Technology student at SDU<br>💻 Interested in software development, AI, data & cybersecurity<br>🌱 Always curious, always learning, and always building something new <br> 🖥️Currently working on a project where im building my own LLM's from scratch<br>
 
 
 ## 🌐 Socials:
