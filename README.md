@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I'm Amal 👋<br>🎓 Software Technology student at SDU<br>💻 Interested in software development, AI, data & cybersecurity<br>🌱 Always curious, always learning, and always building something new <br> 🖥️Currently working on a project where im building my own LLM's from scratch<br>
 
+# 💡Projects:
+Broke-Block (C#)
+Product Information Managemnt System (CRUD operations, UI interface, C#)
+LLM from scratch (Python)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amal001039) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amal-khalaf-hassan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6pvizlly3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalkhassn@gmail.com) 
